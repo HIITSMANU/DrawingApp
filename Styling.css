@@ -84,3 +84,12 @@ body{
     background: red;
     color: white;
 }
+footer{
+    color: white ;
+    background: linear-gradient(red,yellow,green,blue);
+    position: absolute;
+    left: 43%;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+}
